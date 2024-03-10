@@ -1,7 +1,6 @@
 {
   "name": "proyecto",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/4mpaY/proyecto/issues"
   },
-  "homepage": "https://github.com/4mpaY/proyecto#readme"
+  "homepage": "https://github.com/4mpaY/proyecto#readme",
+  "description": ""
 }
