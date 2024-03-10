@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background: #222;
+    height: 100vh;
+    width: auto;
+    
+}
+header{
+    display: flex;
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    z-index: 1000;
+    top: 0;
+}
+
+button{
+    border: none;
+    background: #222;
+    padding: 10px;
+    margin-left: 40px;
+    color: whitesmoke;
+    width: auto;
+    height: 40px;
+    border-radius: 10px;
+}
+#logo{
+    margin-left: 50px;
+    height: 50px;
+    width: auto;
+}
+
+main{
+    width: auto;
+    position: relative;
+    height: 80vh;
+    background:black;
+    margin: 40px;
+    border-radius: 40px;
+    
+}
+#menucito{
+    width: auto;
+    height: 120%;
+}
+#menucito_boton{
+  
+    display: flex;
+    position: absolute;
+    right: 30px;
+    align-items: center;
+}

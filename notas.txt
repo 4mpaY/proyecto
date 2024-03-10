@@ -1,0 +1,4 @@
+*En el apartado de catalogo mostraremos todos los productos.
+*En Entradas, podremos agregar nuevos productos con sus respectivos detalles.
+*En Salidas, veremos el historial de los productos que se vendieron o que salieron de almacen.
+
